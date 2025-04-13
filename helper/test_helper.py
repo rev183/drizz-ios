@@ -17,7 +17,7 @@ import os
 
 from appium import webdriver
 from appium.options.ios import XCUITestOptions
-from .constants import SERVER_URL_BASE
+from constants import SERVER_URL_BASE
 
 from . import desired_capabilities
 

@@ -1,1 +1,5 @@
 Appium-Python-Client
+pydantic~=2.11.3
+openai~=1.73.0
+uuid7~=0.1.0
+python-dotenv~=1.1.0
